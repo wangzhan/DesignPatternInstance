@@ -1,0 +1,10 @@
+#folder
+/AbstractFactoryInstance/Debug/
+/AbstractFactoryInstance/AbstractFactoryInstance/Debug/
+/AbstractFactoryInstance/Release/
+/AbstractFactoryInstance/AbstractFactoryInstance/Release/
+
+#file
+*.suo
+*.ncb
+*.user
